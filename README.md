@@ -1,2 +1,2 @@
-# validador-de-cpf em Python
+# programa que valida CPF em Python
  
